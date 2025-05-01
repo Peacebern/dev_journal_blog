@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "first-post",
+    "title": "First Post",
+    "excerpt": "This is the first post in the blog.",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "General"
+  },
+  {
+    "slug": "second-post",
+    "title": "Second Post",
+    "excerpt": "This is the second post in the blog.",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Tech"
+  }
+]
